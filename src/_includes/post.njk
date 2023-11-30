@@ -1,0 +1,9 @@
+---
+layout: base.njk
+---
+
+<article>
+    <h1>{{ title }}</h1>
+    <p>First created at {{ created }}, last modified at {{ modified }}.</p>
+    {{ content | safe }}
+</article>
