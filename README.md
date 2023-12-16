@@ -5,8 +5,9 @@ A demo for creating custom date properties in Eleventy front matter.
 ## Usage
 
 ```
-pnpm install
-pnpm run start
+git clone https://github.com/uncenter/11ty-demo-modified-created-dates.git
+npm install
+npm run start
 ```
 
 ### Deployment
